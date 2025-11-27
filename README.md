@@ -34,7 +34,11 @@ Multiple RAVE models trained on distinct datasets (foley, glitches, textures). A
 
 System designed for installation and live performance. Encourages gestural exploration—subtle changes in finger position or pressure create evolving textures. TouchDesigner generates audio-reactive visuals.
 
-## Demo
+## Performance with latent box
+
+[YouTube](https://www.youtube.com/live/DRAJDqn2mIU?si=ZvYdFi8UbhPlXkzf&t=4440)
+
+## Info video for latent box
 
 [YouTube](https://youtu.be/wfQgLpoa4WQ)
 
@@ -42,6 +46,4 @@ System designed for installation and live performance. Encourages gestural explo
 
 Interactive audio response to photon motion series by Allison Denny
 
-## Performance with latent-box
 
-[YouTube](https://www.youtube.com/live/DRAJDqn2mIU?si=ZvYdFi8UbhPlXkzf&t=4440)
