@@ -2,7 +2,7 @@
 
 ![Latent box interface](Title_Card.jpg)
 
-An interactive capacitive touch instrument designed as a performable audio response to Allison Denny's photon motion series—silent looping videos of refracted light in continuous motion. Rather than a fixed soundtrack, this system enables real-time sonic interpretation of visual material through gestural control.
+Latent Box is an multi-interaction-point performance interface that controls a mixed variable matrix of latent variables for pre-trained Variable Auto Encoder models (RAVE by IRCAM) along with a custom spatial-granular synthesiser. Rather than a fixed soundtrack, this system enables real-time sonic interpretation of visual material through gestural control.
 
 ## System Architecture
 
@@ -44,6 +44,6 @@ System designed for installation and live performance. Encourages gestural explo
 
 ## Credits
 
-Interactive audio response to photon motion series by Allison Denny
+Latent box was also createda as an interactive instrument designed to create performable audio responses to Allison Denny's photon motion series—silent looping videos of refracted light in continuous motion. 
 
 
