@@ -44,6 +44,6 @@ System designed for installation and live performance. Encourages gestural explo
 
 ## Credits
 
-Latent box was also createda as an interactive instrument designed to create performable audio responses to Allison Denny's photon motion series—silent looping videos of refracted light in continuous motion. 
+Latent box was also createda as an interactive instrument designed to create performable audio responses to Allison Denny's photon motion series—silent looping videos of refracted light in continuous motion!
 
 
