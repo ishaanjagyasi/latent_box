@@ -4,6 +4,10 @@
 
 Latent Box is an multi-interaction-point performance interface that controls a mixed variable matrix of latent variables for pre-trained Variable Auto Encoder models (RAVE by IRCAM) along with a custom spatial-granular synthesiser. Rather than a fixed soundtrack, this system enables real-time sonic interpretation of visual material through gestural control.
 
+[Performance Video with latent box](https://www.youtube.com/live/DRAJDqn2mIU?si=ZvYdFi8UbhPlXkzf&t=4440)
+
+[Info video for latent box](https://youtu.be/wfQgLpoa4WQ)
+
 ## System Architecture
 
 **Hardware:**
@@ -33,14 +37,6 @@ Multiple RAVE models trained on distinct datasets (foley, glitches, textures). A
 ## Performance
 
 System designed for installation and live performance. Encourages gestural exploration—subtle changes in finger position or pressure create evolving textures. TouchDesigner generates audio-reactive visuals.
-
-## Performance with latent box
-
-[YouTube](https://www.youtube.com/live/DRAJDqn2mIU?si=ZvYdFi8UbhPlXkzf&t=4440)
-
-## Info video for latent box
-
-[YouTube](https://youtu.be/wfQgLpoa4WQ)
 
 ## Credits
 
